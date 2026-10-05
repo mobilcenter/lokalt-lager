@@ -2,7 +2,10 @@ name: Uppdatera lokalt lager
 
 on:
   schedule:
-    - cron: "0 20 * * *" # 22:00 svensk sommartid, innan Merchant Center hämtar kl 00:00
+    # 19:00 svensk sommartid (18:00 vintertid). GitHub kan försena schemalagda
+    # körningar flera timmar, så de måste starta i god tid innan Merchant Center
+    # hämtar filen kl 00:00.
+    - cron: "0 17 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,6 +24,9 @@ jobs:
         run: |
           git config user.name "lokalt-lager-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add lokalt-lager.tsv
-          git diff --cached --quiet || git commit -m "Uppdatera lokalt lager $(date +%F)"
+          # Tidsstämpeln ger en commit varje dag, annars stänger GitHub av
+          # schemat efter 60 dagar utan aktivitet i repot.
+          date -u +%FT%TZ > senast-uppdaterad.txt
+          git add lokalt-lager.tsv senast-uppdaterad.txt
+          git commit -m "Uppdatera lokalt lager $(date +%F)"
           git push
