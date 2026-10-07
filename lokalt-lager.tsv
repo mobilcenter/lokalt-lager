@@ -1,6 +1,6 @@
 store_code	id	availability	price
-Mobilcenter Jönköping AB	20	in_stock	
-Mobilcenter Jönköping AB	32	in_stock	
+Mobilcenter Jönköping AB	20	out_of_stock	
+Mobilcenter Jönköping AB	32	out_of_stock	
 Mobilcenter Jönköping AB	34	in_stock	
 Mobilcenter Jönköping AB	35	in_stock	
 Mobilcenter Jönköping AB	36	in_stock	
@@ -33,15 +33,15 @@ Mobilcenter Jönköping AB	595	in_stock
 Mobilcenter Jönköping AB	597	in_stock	
 Mobilcenter Jönköping AB	599	in_stock	
 Mobilcenter Jönköping AB	600	in_stock	
-Mobilcenter Jönköping AB	605	in_stock	
-Mobilcenter Jönköping AB	614	in_stock	
+Mobilcenter Jönköping AB	605	out_of_stock	
+Mobilcenter Jönköping AB	614	out_of_stock	
 Mobilcenter Jönköping AB	617	in_stock	
 Mobilcenter Jönköping AB	620	out_of_stock	
 Mobilcenter Jönköping AB	623	in_stock	
 Mobilcenter Jönköping AB	644	out_of_stock	
 Mobilcenter Jönköping AB	645	out_of_stock	
 Mobilcenter Jönköping AB	684	in_stock	
-Mobilcenter Jönköping AB	690	in_stock	
+Mobilcenter Jönköping AB	690	out_of_stock	
 Mobilcenter Jönköping AB	692	in_stock	
 Mobilcenter Jönköping AB	702	out_of_stock	
 Mobilcenter Jönköping AB	703	out_of_stock	
@@ -58,19 +58,19 @@ Mobilcenter Jönköping AB	717	in_stock
 Mobilcenter Jönköping AB	718	in_stock	
 Mobilcenter Jönköping AB	719	in_stock	
 Mobilcenter Jönköping AB	720	in_stock	
-Mobilcenter Jönköping AB	722	in_stock	
-Mobilcenter Jönköping AB	725	in_stock	
+Mobilcenter Jönköping AB	722	out_of_stock	
+Mobilcenter Jönköping AB	725	out_of_stock	
 Mobilcenter Jönköping AB	727	in_stock	
 Mobilcenter Jönköping AB	729	out_of_stock	
 Mobilcenter Jönköping AB	730	in_stock	
 Mobilcenter Jönköping AB	733	in_stock	
-Mobilcenter Jönköping AB	735	in_stock	
+Mobilcenter Jönköping AB	735	out_of_stock	
 Mobilcenter Jönköping AB	746	in_stock	
 Mobilcenter Jönköping AB	747	in_stock	
 Mobilcenter Jönköping AB	748	in_stock	
-Mobilcenter Jönköping AB	751	in_stock	
+Mobilcenter Jönköping AB	751	out_of_stock	
 Mobilcenter Jönköping AB	752	in_stock	
-Mobilcenter Jönköping AB	759	in_stock	
+Mobilcenter Jönköping AB	759	out_of_stock	
 Mobilcenter Jönköping AB	762	out_of_stock	
 Mobilcenter Jönköping AB	765	out_of_stock	
 Mobilcenter Jönköping AB	768	in_stock	
@@ -81,14 +81,14 @@ Mobilcenter Jönköping AB	773	in_stock
 Mobilcenter Jönköping AB	775	in_stock	
 Mobilcenter Jönköping AB	776	in_stock	
 Mobilcenter Jönköping AB	777	in_stock	
-Mobilcenter Jönköping AB	781	out_of_stock	
+Mobilcenter Jönköping AB	781	in_stock	
 Mobilcenter Jönköping AB	782	in_stock	
 Mobilcenter Jönköping AB	783	out_of_stock	
 Mobilcenter Jönköping AB	784	in_stock	
 Mobilcenter Jönköping AB	785	in_stock	
 Mobilcenter Jönköping AB	786	in_stock	
-Mobilcenter Jönköping AB	787	in_stock	
-Mobilcenter Jönköping AB	788	in_stock	
+Mobilcenter Jönköping AB	787	out_of_stock	
+Mobilcenter Jönköping AB	788	out_of_stock	
 Mobilcenter Jönköping AB	789	in_stock	
 Mobilcenter Jönköping AB	790	in_stock	
 Mobilcenter Jönköping AB	791	in_stock	
@@ -100,7 +100,7 @@ Mobilcenter Jönköping AB	802	out_of_stock
 Mobilcenter Jönköping AB	803	out_of_stock	
 Mobilcenter Jönköping AB	806	in_stock	
 Mobilcenter Jönköping AB	810	out_of_stock	
-Mobilcenter Jönköping AB	814	in_stock	
+Mobilcenter Jönköping AB	814	out_of_stock	
 Mobilcenter Jönköping AB	815	in_stock	
 Mobilcenter Jönköping AB	817	in_stock	
 Mobilcenter Jönköping AB	819	in_stock	
@@ -172,7 +172,7 @@ Mobilcenter Jönköping AB	1016	in_stock
 Mobilcenter Jönköping AB	1017	in_stock	
 Mobilcenter Jönköping AB	1018	in_stock	
 Mobilcenter Jönköping AB	1019	in_stock	
-Mobilcenter Jönköping AB	1020	in_stock	
+Mobilcenter Jönköping AB	1020	out_of_stock	
 Mobilcenter Jönköping AB	1024	in_stock	
 Mobilcenter Jönköping AB	1025	in_stock	
 Mobilcenter Jönköping AB	1027	in_stock	
@@ -187,16 +187,16 @@ Mobilcenter Jönköping AB	1039	in_stock
 Mobilcenter Jönköping AB	1040	in_stock	199.00 SEK
 Mobilcenter Jönköping AB	1041	in_stock	199.00 SEK
 Mobilcenter Jönköping AB	1042	in_stock	199.00 SEK
-Mobilcenter Jönköping AB	1047	in_stock	
+Mobilcenter Jönköping AB	1047	out_of_stock	
 Mobilcenter Jönköping AB	1049	out_of_stock	
-Mobilcenter Jönköping AB	1050	in_stock	
+Mobilcenter Jönköping AB	1050	out_of_stock	
 Mobilcenter Jönköping AB	1064	in_stock	
 Mobilcenter Jönköping AB	1066	in_stock	
 Mobilcenter Jönköping AB	1067	in_stock	199.00 SEK
-Mobilcenter Jönköping AB	1068	in_stock	
-Mobilcenter Jönköping AB	1069	in_stock	
+Mobilcenter Jönköping AB	1068	out_of_stock	
+Mobilcenter Jönköping AB	1069	out_of_stock	
 Mobilcenter Jönköping AB	1070	in_stock	
-Mobilcenter Jönköping AB	1089	in_stock	
+Mobilcenter Jönköping AB	1089	out_of_stock	
 Mobilcenter Jönköping AB	1094	in_stock	
 Mobilcenter Jönköping AB	1095	in_stock	
 Mobilcenter Jönköping AB	1096	in_stock	
@@ -218,7 +218,7 @@ Mobilcenter Jönköping AB	1119	in_stock
 Mobilcenter Jönköping AB	1120	out_of_stock	
 Mobilcenter Jönköping AB	1122	in_stock	
 Mobilcenter Jönköping AB	1124	in_stock	
-Mobilcenter Jönköping AB	1125	in_stock	
+Mobilcenter Jönköping AB	1125	out_of_stock	
 Mobilcenter Jönköping AB	1130	in_stock	
 Mobilcenter Jönköping AB	1131	in_stock	
 Mobilcenter Jönköping AB	1134	in_stock	
@@ -279,7 +279,7 @@ Mobilcenter Jönköping AB	1210	out_of_stock
 Mobilcenter Jönköping AB	1211	out_of_stock	
 Mobilcenter Jönköping AB	1212	out_of_stock	
 Mobilcenter Jönköping AB	1213	in_stock	
-Mobilcenter Jönköping AB	1215	out_of_stock	
+Mobilcenter Jönköping AB	1215	in_stock	
 Mobilcenter Jönköping AB	1216	in_stock	
 Mobilcenter Jönköping AB	1217	in_stock	
 Mobilcenter Jönköping AB	1218	in_stock	
@@ -288,7 +288,7 @@ Mobilcenter Jönköping AB	1220	in_stock
 Mobilcenter Jönköping AB	1221	in_stock	
 Mobilcenter Jönköping AB	1222	in_stock	
 Mobilcenter Jönköping AB	1224	out_of_stock	
-Mobilcenter Jönköping AB	1225	in_stock	
+Mobilcenter Jönköping AB	1225	out_of_stock	
 Mobilcenter Jönköping AB	1226	out_of_stock	
 Mobilcenter Jönköping AB	1227	in_stock	
 Mobilcenter Jönköping AB	1228	in_stock	
@@ -329,14 +329,14 @@ Mobilcenter Jönköping AB	1266	in_stock
 Mobilcenter Jönköping AB	1267	in_stock	
 Mobilcenter Jönköping AB	1268	in_stock	
 Mobilcenter Jönköping AB	1270	in_stock	
-Mobilcenter Jönköping AB	1271	in_stock	
+Mobilcenter Jönköping AB	1271	out_of_stock	
 Mobilcenter Jönköping AB	1272	in_stock	
 Mobilcenter Jönköping AB	1273	in_stock	
 Mobilcenter Jönköping AB	1274	out_of_stock	
 Mobilcenter Jönköping AB	1276	out_of_stock	
 Mobilcenter Jönköping AB	1279	out_of_stock	
 Mobilcenter Jönköping AB	1283	out_of_stock	
-Mobilcenter Jönköping AB	1284	out_of_stock	
+Mobilcenter Jönköping AB	1284	in_stock	
 Mobilcenter Jönköping AB	1285	out_of_stock	
 Mobilcenter Jönköping AB	1286	in_stock	
 Mobilcenter Jönköping AB	1287	out_of_stock	
@@ -379,7 +379,7 @@ Mobilcenter Jönköping AB	1334	in_stock
 Mobilcenter Jönköping AB	1335	in_stock	
 Mobilcenter Jönköping AB	1336	in_stock	
 Mobilcenter Jönköping AB	1337	in_stock	
-Mobilcenter Jönköping AB	1338	in_stock	
+Mobilcenter Jönköping AB	1338	out_of_stock	
 Mobilcenter Jönköping AB	1339	in_stock	
 Mobilcenter Jönköping AB	1340	out_of_stock	
 Mobilcenter Jönköping AB	1341	in_stock	
@@ -469,14 +469,14 @@ Mobilcenter Jönköping AB	1428	in_stock
 Mobilcenter Jönköping AB	1429	in_stock	
 Mobilcenter Jönköping AB	1430	in_stock	
 Mobilcenter Jönköping AB	1431	in_stock	
-Mobilcenter Jönköping AB	1432	in_stock	
-Mobilcenter Jönköping AB	1433	in_stock	
+Mobilcenter Jönköping AB	1432	out_of_stock	
+Mobilcenter Jönköping AB	1433	out_of_stock	
 Mobilcenter Jönköping AB	1434	in_stock	
 Mobilcenter Jönköping AB	1435	in_stock	
 Mobilcenter Jönköping AB	1436	in_stock	
 Mobilcenter Jönköping AB	1437	in_stock	
 Mobilcenter Jönköping AB	1438	in_stock	
-Mobilcenter Jönköping AB	1439	in_stock	
+Mobilcenter Jönköping AB	1439	out_of_stock	
 Mobilcenter Jönköping AB	1440	in_stock	
 Mobilcenter Jönköping AB	1471	in_stock	
 Mobilcenter Jönköping AB	1472	in_stock	
